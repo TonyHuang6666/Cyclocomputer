@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f10x.h": "c",
+			"2.4tft.h": "c",
+			"spi.h": "c"
+		}
+	}
+}

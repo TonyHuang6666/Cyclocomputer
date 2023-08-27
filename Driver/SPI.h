@@ -1,5 +1,7 @@
 #ifndef SPI_H_
 #define SPI_H_
+#include "stm32f10x.h"
+#include "DMA.h"
 
 #define SPI_PORT SPI1
 #define SPI_PORT_CLK RCC_APB2Periph_SPI1 //SPI1为APB2外设，SPI2为APB1外设

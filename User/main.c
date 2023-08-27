@@ -12,6 +12,7 @@ int main(void)
 {
 	MPU6050_Init(); // 陀螺仪初始化
 	LCD_Init(); // 液晶屏初始化
+	
 	while (1)
 	{
 		/*

@@ -96,8 +96,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/OneDrive - email.szu.edu.cn/Codes/VS Code/Cyclocomputer/User/stm32f10x_it.c" "CMakeFiles/Cyclocomputer.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/VS_Code/Cyclocomputer/User/stm32f10x_it.o" "gcc" "CMakeFiles/Cyclocomputer.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/VS_Code/Cyclocomputer/User/stm32f10x_it.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
